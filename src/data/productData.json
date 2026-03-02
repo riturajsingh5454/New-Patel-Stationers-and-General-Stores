@@ -1,0 +1,303 @@
+{
+  "categories": [
+    {
+      "id": "school-education",
+      "name": "School & Education Supplies",
+      "hindiName": "विद्यालय से सम्बंधित रजिस्टर",
+      "image": "https://picsum.photos/seed/school-reg/800/600",
+      "items": [
+        { "id": "se-1", "name": "Student Attendance Register", "hindiName": "छात्र उपस्थिति रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg1/400/400" },
+        { "id": "se-2", "name": "Teacher Diary", "hindiName": "शिक्षक डायरी", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg2/400/400" },
+        { "id": "se-3", "name": "Admission Register", "hindiName": "प्रवेश रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg3/400/400" },
+        { "id": "se-4", "name": "Enrollment Register", "hindiName": "नामांकन रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg4/400/400" },
+        { "id": "se-5", "name": "Exam Result Register", "hindiName": "परीक्षा परिणाम रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg5/400/400" },
+        { "id": "se-6", "name": "MDM Register", "hindiName": "एमडीएम रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg6/400/400" },
+        { "id": "se-7", "name": "Library Register", "hindiName": "लाइब्रेरी रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg7/400/400" },
+        { "id": "se-8", "name": "Stock Register", "hindiName": "स्टॉक रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg8/400/400" },
+        { "id": "se-9", "name": "Inward-Outward Register", "hindiName": "आगमन-प्रेषण रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg9/400/400" },
+        { "id": "se-10", "name": "Inspection Register", "hindiName": "निरीक्षण रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg10/400/400" },
+        { "id": "se-11", "name": "Class Work Register", "hindiName": "कक्षा कार्य रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg11/400/400" },
+        { "id": "se-12", "name": "Home Work Register", "hindiName": "गृह कार्य रजिस्टर", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg12/400/400" },
+        { "id": "se-13", "name": "School Record File", "hindiName": "विद्यालय रिकॉर्ड फाइल", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg13/400/400" },
+        { "id": "se-14", "name": "School Form & Panjika", "hindiName": "स्कूल फार्म व पंजिका", "category": "School & Education Supplies", "image": "https://picsum.photos/seed/reg14/400/400" }
+      ]
+    },
+    {
+      "id": "stationery-items",
+      "name": "Stationery Items",
+      "hindiName": "ऑफिस व विद्यालय स्टेशनरी सामान",
+      "image": "https://picsum.photos/seed/stationery-set/800/600",
+      "items": [
+        { "id": "si-1", "name": "Ball Pen", "hindiName": "बॉल पेन", "category": "Stationery Items", "image": "https://picsum.photos/seed/pen1/400/400" },
+        { "id": "si-2", "name": "Gel Pen", "hindiName": "जेल पेन", "category": "Stationery Items", "image": "https://picsum.photos/seed/pen2/400/400" },
+        { "id": "si-3", "name": "Fountain Pen", "hindiName": "फाउंटेन पेन", "category": "Stationery Items", "image": "https://picsum.photos/seed/pen3/400/400" },
+        { "id": "si-4", "name": "Pencil", "hindiName": "पेंसिल", "category": "Stationery Items", "image": "https://picsum.photos/seed/pencil1/400/400" },
+        { "id": "si-5", "name": "Eraser", "hindiName": "रबर", "category": "Stationery Items", "image": "https://picsum.photos/seed/eraser1/400/400" },
+        { "id": "si-6", "name": "Sharpener", "hindiName": "शार्पनर", "category": "Stationery Items", "image": "https://picsum.photos/seed/sharp1/400/400" },
+        { "id": "si-7", "name": "Scale", "hindiName": "स्केल", "category": "Stationery Items", "image": "https://picsum.photos/seed/scale1/400/400" },
+        { "id": "si-8", "name": "Geometry Box", "hindiName": "ज्योमेट्री बॉक्स", "category": "Stationery Items", "image": "https://picsum.photos/seed/geom1/400/400" },
+        { "id": "si-9", "name": "Marker", "hindiName": "मार्कर", "category": "Stationery Items", "image": "https://picsum.photos/seed/mark1/400/400" },
+        { "id": "si-10", "name": "White Board Marker", "hindiName": "व्हाइट बोर्ड मार्कर", "category": "Stationery Items", "image": "https://picsum.photos/seed/mark2/400/400" },
+        { "id": "si-11", "name": "Highlighter", "hindiName": "हाईलाइटर", "category": "Stationery Items", "image": "https://picsum.photos/seed/high1/400/400" },
+        { "id": "si-12", "name": "Correction Pen", "hindiName": "करेक्शन पेन", "category": "Stationery Items", "image": "https://picsum.photos/seed/corr1/400/400" },
+        { "id": "si-13", "name": "Stapler", "hindiName": "स्टेपलर", "category": "Stationery Items", "image": "https://picsum.photos/seed/stap1/400/400" },
+        { "id": "si-14", "name": "Staple Pins", "hindiName": "स्टेपल पिन", "category": "Stationery Items", "image": "https://picsum.photos/seed/stap2/400/400" },
+        { "id": "si-15", "name": "Punch Machine", "hindiName": "पंच मशीन", "category": "Stationery Items", "image": "https://picsum.photos/seed/punch1/400/400" },
+        { "id": "si-16", "name": "Paper Pin", "hindiName": "पेपर पिन", "category": "Stationery Items", "image": "https://picsum.photos/seed/pin1/400/400" },
+        { "id": "si-17", "name": "Clip", "hindiName": "क्लिप", "category": "Stationery Items", "image": "https://picsum.photos/seed/clip1/400/400" },
+        { "id": "si-18", "name": "Glue", "hindiName": "गोंद", "category": "Stationery Items", "image": "https://picsum.photos/seed/glue1/400/400" },
+        { "id": "si-19", "name": "Tape", "hindiName": "टेप", "category": "Stationery Items", "image": "https://picsum.photos/seed/tape1/400/400" },
+        { "id": "si-20", "name": "Rubber Band", "hindiName": "रबर बैंड", "category": "Stationery Items", "image": "https://picsum.photos/seed/rub1/400/400" },
+        { "id": "si-21", "name": "Ink Pad", "hindiName": "इंक पैड", "category": "Stationery Items", "image": "https://picsum.photos/seed/ink1/400/400" }
+      ]
+    },
+    {
+      "id": "registers-files",
+      "name": "Registers & Office Files",
+      "hindiName": "कागज एवं फाइल्स का सामान",
+      "image": "https://picsum.photos/seed/files-set/800/600",
+      "items": [
+        { "id": "rf-1", "name": "Plain Register", "hindiName": "सादा रजिस्टर", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf1/400/400" },
+        { "id": "rf-2", "name": "Hard Bound Register", "hindiName": "हार्ड बाउंड रजिस्टर", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf2/400/400" },
+        { "id": "rf-3", "name": "A4 Register", "hindiName": "A4 रजिस्टर", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf3/400/400" },
+        { "id": "rf-4", "name": "Counter Book", "hindiName": "काउंटर बुक", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf4/400/400" },
+        { "id": "rf-5", "name": "Cash Book", "hindiName": "कैश बुक", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf5/400/400" },
+        { "id": "rf-6", "name": "Ledger", "hindiName": "लेजर", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf6/400/400" },
+        { "id": "rf-7", "name": "Office File", "hindiName": "ऑफिस फाइल", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf7/400/400" },
+        { "id": "rf-8", "name": "Button File", "hindiName": "बटन फाइल", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf8/400/400" },
+        { "id": "rf-9", "name": "Spring File", "hindiName": "स्प्रिंग फाइल", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf9/400/400" },
+        { "id": "rf-10", "name": "Letter Pad File", "hindiName": "लेटर पैड फाइल", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf10/400/400" },
+        { "id": "rf-11", "name": "Spiral File", "hindiName": "स्पाइरल फाइल", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf11/400/400" },
+        { "id": "rf-12", "name": "Document Folder", "hindiName": "डॉक्यूमेंट फोल्डर", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf12/400/400" },
+        { "id": "rf-13", "name": "Plastic File", "hindiName": "प्लास्टिक फाइल", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf13/400/400" },
+        { "id": "rf-14", "name": "Tag File", "hindiName": "टैग फाइल", "category": "Registers & Office Files", "image": "https://picsum.photos/seed/rf14/400/400" }
+      ]
+    },
+    {
+      "id": "paper-printing",
+      "name": "Paper & Printing Materials",
+      "hindiName": "कागज एवं प्रिंटिंग सामग्री",
+      "image": "https://picsum.photos/seed/paper-set/800/600",
+      "items": [
+        { "id": "pp-1", "name": "A4 Paper", "hindiName": "A4 पेपर", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp1/400/400" },
+        { "id": "pp-2", "name": "Legal Size Paper", "hindiName": "लीगल साइज पेपर", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp2/400/400" },
+        { "id": "pp-3", "name": "Colored Paper", "hindiName": "रंगीन कागज", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp3/400/400" },
+        { "id": "pp-4", "name": "Chart Paper", "hindiName": "चार्ट पेपर", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp4/400/400" },
+        { "id": "pp-5", "name": "Craft Paper", "hindiName": "क्राफ्ट पेपर", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp5/400/400" },
+        { "id": "pp-6", "name": "Photocopy Paper", "hindiName": "फोटोकॉपी पेपर", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp6/400/400" },
+        { "id": "pp-7", "name": "Poster Paper", "hindiName": "पोस्टर पेपर", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp7/400/400" },
+        { "id": "pp-8", "name": "Paper Roll", "hindiName": "पेपर रोल", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp8/400/400" },
+        { "id": "pp-9", "name": "Glaze Paper", "hindiName": "ग्लेज पेपर", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp9/400/400" },
+        { "id": "pp-10", "name": "Brown Paper", "hindiName": "ब्राउन पेपर", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp10/400/400" },
+        { "id": "pp-11", "name": "Cover Paper", "hindiName": "कवर पेपर", "category": "Paper & Printing Materials", "image": "https://picsum.photos/seed/pp11/400/400" }
+      ]
+    },
+    {
+      "id": "writing-art",
+      "name": "Writing, Drawing & Art Materials",
+      "hindiName": "लेखन व ड्राइंग सामग्री",
+      "image": "https://picsum.photos/seed/art-set/800/600",
+      "items": [
+        { "id": "wa-1", "name": "Drawing Book", "hindiName": "ड्राइंग बुक", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa1/400/400" },
+        { "id": "wa-2", "name": "Sketch Book", "hindiName": "स्केच बुक", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa2/400/400" },
+        { "id": "wa-3", "name": "Color Pencil", "hindiName": "कलर पेंसिल", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa3/400/400" },
+        { "id": "wa-4", "name": "Sketch Pen", "hindiName": "स्केच पेन", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa4/400/400" },
+        { "id": "wa-5", "name": "Crayon", "hindiName": "क्रेयॉन", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa5/400/400" },
+        { "id": "wa-6", "name": "Water Color", "hindiName": "वॉटर कलर", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa6/400/400" },
+        { "id": "wa-7", "name": "Poster Color", "hindiName": "पोस्टर कलर", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa7/400/400" },
+        { "id": "wa-8", "name": "Oil Pastel", "hindiName": "ऑयल पेस्टल", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa8/400/400" },
+        { "id": "wa-9", "name": "Paint Brush", "hindiName": "पेंट ब्रश", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa9/400/400" },
+        { "id": "wa-10", "name": "Palette", "hindiName": "पैलेट", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa10/400/400" },
+        { "id": "wa-11", "name": "Glitter", "hindiName": "ग्लिटर", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa11/400/400" },
+        { "id": "wa-12", "name": "Art Sticker", "hindiName": "आर्ट स्टिकर", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa12/400/400" },
+        { "id": "wa-13", "name": "Craft Kit", "hindiName": "क्राफ्ट किट", "category": "Writing, Drawing & Art Materials", "image": "https://picsum.photos/seed/wa13/400/400" }
+      ]
+    },
+    {
+      "id": "maths-geometry-tlm",
+      "name": "Maths, Geometry & TLM",
+      "hindiName": "ज्योमेट्री व मैथ्स सामग्री (TLM)",
+      "image": "https://picsum.photos/seed/tlm-set/800/600",
+      "items": [
+        { "id": "tlm-1", "name": "Geometry Set", "hindiName": "ज्योमेट्री सेट", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm1/400/400" },
+        { "id": "tlm-2", "name": "Maths Kit", "hindiName": "गणित किट", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm2/400/400" },
+        { "id": "tlm-3", "name": "Number Chart", "hindiName": "नंबर चार्ट", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm3/400/400" },
+        { "id": "tlm-4", "name": "Alphabet Chart", "hindiName": "अक्षर चार्ट", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm4/400/400" },
+        { "id": "tlm-5", "name": "Science Chart", "hindiName": "साइंस चार्ट", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm5/400/400" },
+        { "id": "tlm-6", "name": "Science Model", "hindiName": "विज्ञान मॉडल", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm6/400/400" },
+        { "id": "tlm-7", "name": "Flash Card", "hindiName": "फ्लैश कार्ड", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm7/400/400" },
+        { "id": "tlm-8", "name": "Blackboard Duster", "hindiName": "ब्लैकबोर्ड डस्टर", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm8/400/400" },
+        { "id": "tlm-9", "name": "Chalk", "hindiName": "चॉक", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm9/400/400" },
+        { "id": "tlm-10", "name": "White Board Chalk", "hindiName": "व्हाइट बोर्ड चॉक", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm10/400/400" },
+        { "id": "tlm-11", "name": "Map", "hindiName": "मैप", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm11/400/400" },
+        { "id": "tlm-12", "name": "Globe", "hindiName": "ग्लोब", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm12/400/400" },
+        { "id": "tlm-13", "name": "Teaching Aid", "hindiName": "शिक्षण सहायक सामग्री", "category": "Maths, Geometry & TLM", "image": "https://picsum.photos/seed/tlm13/400/400" }
+      ]
+    },
+    {
+      "id": "furniture-infrastructure",
+      "name": "Furniture & School Infrastructure",
+      "hindiName": "फर्नीचर का सामान",
+      "image": "https://picsum.photos/seed/furniture-set/800/600",
+      "items": [
+        { "id": "fi-1", "name": "Steel Chair", "hindiName": "स्टील कुर्सी", "category": "Furniture & School Infrastructure", "image": "https://picsum.photos/seed/fi1/400/400" },
+        { "id": "fi-2", "name": "Plastic Chair", "hindiName": "प्लास्टिक कुर्सी", "category": "Furniture & School Infrastructure", "image": "https://picsum.photos/seed/fi2/400/400" },
+        { "id": "fi-3", "name": "Bench", "hindiName": "बेंच", "category": "Furniture & School Infrastructure", "image": "https://picsum.photos/seed/fi3/400/400" },
+        { "id": "fi-4", "name": "Desk", "hindiName": "डेस्क", "category": "Furniture & School Infrastructure", "image": "https://picsum.photos/seed/fi4/400/400" },
+        { "id": "fi-5", "name": "Study Table", "hindiName": "स्टडी टेबल", "category": "Furniture & School Infrastructure", "image": "https://picsum.photos/seed/fi5/400/400" },
+        { "id": "fi-6", "name": "Office Table", "hindiName": "ऑफिस टेबल", "category": "Furniture & School Infrastructure", "image": "https://picsum.photos/seed/fi6/400/400" },
+        { "id": "fi-7", "name": "Almirah", "hindiName": "अलमारी", "category": "Furniture & School Infrastructure", "image": "https://picsum.photos/seed/fi7/400/400" },
+        { "id": "fi-8", "name": "Stool", "hindiName": "स्टूल", "category": "Furniture & School Infrastructure", "image": "https://picsum.photos/seed/fi8/400/400" },
+        { "id": "fi-9", "name": "Rack", "hindiName": "रैक", "category": "Furniture & School Infrastructure", "image": "https://picsum.photos/seed/fi9/400/400" },
+        { "id": "fi-10", "name": "School Furniture Item", "hindiName": "स्कूल फर्नीचर आइटम", "category": "Furniture & School Infrastructure", "image": "https://picsum.photos/seed/fi10/400/400" }
+      ]
+    },
+    {
+      "id": "charts-maps-boards",
+      "name": "Charts, Maps & Boards",
+      "hindiName": "चार्ट, मैप व बोर्ड का सामान",
+      "image": "https://picsum.photos/seed/boards-set/800/600",
+      "items": [
+        { "id": "cmb-1", "name": "Wall Chart", "hindiName": "दीवार चार्ट", "category": "Charts, Maps & Boards", "image": "https://picsum.photos/seed/cmb1/400/400" },
+        { "id": "cmb-2", "name": "Educational Chart", "hindiName": "शैक्षणिक चार्ट", "category": "Charts, Maps & Boards", "image": "https://picsum.photos/seed/cmb2/400/400" },
+        { "id": "cmb-3", "name": "Map of India", "hindiName": "भारत का नक्शा", "category": "Charts, Maps & Boards", "image": "https://picsum.photos/seed/cmb3/400/400" },
+        { "id": "cmb-4", "name": "World Map", "hindiName": "विश्व मानचित्र", "category": "Charts, Maps & Boards", "image": "https://picsum.photos/seed/cmb4/400/400" },
+        { "id": "cmb-5", "name": "Green Board", "hindiName": "ग्रीन बोर्ड", "category": "Charts, Maps & Boards", "image": "https://picsum.photos/seed/cmb5/400/400" },
+        { "id": "cmb-6", "name": "Black Board", "hindiName": "ब्लैक बोर्ड", "category": "Charts, Maps & Boards", "image": "https://picsum.photos/seed/cmb6/400/400" },
+        { "id": "cmb-7", "name": "White Board", "hindiName": "व्हाइट बोर्ड", "category": "Charts, Maps & Boards", "image": "https://picsum.photos/seed/cmb7/400/400" },
+        { "id": "cmb-8", "name": "Notice Board", "hindiName": "नोटिस बोर्ड", "category": "Charts, Maps & Boards", "image": "https://picsum.photos/seed/cmb8/400/400" },
+        { "id": "cmb-9", "name": "Display Board", "hindiName": "डिस्प्ले बोर्ड", "category": "Charts, Maps & Boards", "image": "https://picsum.photos/seed/cmb9/400/400" }
+      ]
+    },
+    {
+      "id": "cleaning-hygiene",
+      "name": "Cleaning & Hygiene Products",
+      "hindiName": "स्वच्छता सामग्री (Cleaning Material)",
+      "image": "https://picsum.photos/seed/cleaning-set/800/600",
+      "items": [
+        { "id": "ch-1", "name": "Phenyl", "hindiName": "फिनायल", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch1/400/400" },
+        { "id": "ch-2", "name": "Floor Cleaner", "hindiName": "फ्लोर क्लीनर", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch2/400/400" },
+        { "id": "ch-3", "name": "Toilet Cleaner", "hindiName": "टॉयलेट क्लीनर", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch3/400/400" },
+        { "id": "ch-4", "name": "Handwash", "hindiName": "हैंडवॉश", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch4/400/400" },
+        { "id": "ch-5", "name": "Soap", "hindiName": "साबुन", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch5/400/400" },
+        { "id": "ch-6", "name": "Detergent Powder", "hindiName": "डिटर्जेंट पाउडर", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch6/400/400" },
+        { "id": "ch-7", "name": "Broom", "hindiName": "झाड़ू", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch7/400/400" },
+        { "id": "ch-8", "name": "Mop", "hindiName": "पोछा", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch8/400/400" },
+        { "id": "ch-9", "name": "Dustbin", "hindiName": "डस्टबिन", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch9/400/400" },
+        { "id": "ch-10", "name": "Garbage Bag", "hindiName": "कचरा बैग", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch10/400/400" },
+        { "id": "ch-11", "name": "Cleaning Cloth", "hindiName": "सफाई कपड़ा", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch11/400/400" },
+        { "id": "ch-12", "name": "Room Freshener", "hindiName": "रूम फ्रेशनर", "category": "Cleaning & Hygiene Products", "image": "https://picsum.photos/seed/ch12/400/400" }
+      ]
+    },
+    {
+      "id": "general-household",
+      "name": "General & Household Items",
+      "hindiName": "जनरल सामान",
+      "image": "https://picsum.photos/seed/general-set/800/600",
+      "items": [
+        { "id": "gh-1", "name": "Bucket", "hindiName": "बाल्टी", "category": "General & Household Items", "image": "https://picsum.photos/seed/gh1/400/400" },
+        { "id": "gh-2", "name": "Mug", "hindiName": "मग", "category": "General & Household Items", "image": "https://picsum.photos/seed/gh2/400/400" },
+        { "id": "gh-3", "name": "Water Bottle", "hindiName": "पानी की बोतल", "category": "General & Household Items", "image": "https://picsum.photos/seed/gh3/400/400" },
+        { "id": "gh-4", "name": "Lunch Box", "hindiName": "लंच बॉक्स", "category": "General & Household Items", "image": "https://picsum.photos/seed/gh4/400/400" },
+        { "id": "gh-5", "name": "Plastic Container", "hindiName": "प्लास्टिक डिब्बे", "category": "General & Household Items", "image": "https://picsum.photos/seed/gh5/400/400" },
+        { "id": "gh-6", "name": "Matchbox", "hindiName": "माचिस", "category": "General & Household Items", "image": "https://picsum.photos/seed/gh6/400/400" },
+        { "id": "gh-7", "name": "Candle", "hindiName": "मोमबत्ती", "category": "General & Household Items", "image": "https://picsum.photos/seed/gh7/400/400" },
+        { "id": "gh-8", "name": "Torch", "hindiName": "टॉर्च", "category": "General & Household Items", "image": "https://picsum.photos/seed/gh8/400/400" },
+        { "id": "gh-9", "name": "Extension Board", "hindiName": "एक्सटेंशन बोर्ड", "category": "General & Household Items", "image": "https://picsum.photos/seed/gh9/400/400" },
+        { "id": "gh-10", "name": "Household Item", "hindiName": "घरेलू उपयोग का सामान", "category": "General & Household Items", "image": "https://picsum.photos/seed/gh10/400/400" }
+      ]
+    },
+    {
+      "id": "sports-pe",
+      "name": "Sports & Physical Education Items",
+      "hindiName": "स्पोर्ट्स का सामान",
+      "image": "https://picsum.photos/seed/sports-set/800/600",
+      "items": [
+        { "id": "sp-1", "name": "Cricket Bat", "hindiName": "क्रिकेट बैट", "category": "Sports & Physical Education Items", "image": "https://picsum.photos/seed/sp1/400/400" },
+        { "id": "sp-2", "name": "Cricket Ball", "hindiName": "क्रिकेट बॉल", "category": "Sports & Physical Education Items", "image": "https://picsum.photos/seed/sp2/400/400" },
+        { "id": "sp-3", "name": "Football", "hindiName": "फुटबॉल", "category": "Sports & Physical Education Items", "image": "https://picsum.photos/seed/sp3/400/400" },
+        { "id": "sp-4", "name": "Volleyball", "hindiName": "वॉलीबॉल", "category": "Sports & Physical Education Items", "image": "https://picsum.photos/seed/sp4/400/400" },
+        { "id": "sp-5", "name": "Badminton Racket", "hindiName": "बैडमिंटन रैकेट", "category": "Sports & Physical Education Items", "image": "https://picsum.photos/seed/sp5/400/400" },
+        { "id": "sp-6", "name": "Shuttle Cock", "hindiName": "शटल कॉक", "category": "Sports & Physical Education Items", "image": "https://picsum.photos/seed/sp6/400/400" },
+        { "id": "sp-7", "name": "Skipping Rope", "hindiName": "स्किपिंग रोप", "category": "Sports & Physical Education Items", "image": "https://picsum.photos/seed/sp7/400/400" },
+        { "id": "sp-8", "name": "Whistle", "hindiName": "सीटी", "category": "Sports & Physical Education Items", "image": "https://picsum.photos/seed/sp8/400/400" },
+        { "id": "sp-9", "name": "Sports Item", "hindiName": "खेलकूद का अन्य सामान", "category": "Sports & Physical Education Items", "image": "https://picsum.photos/seed/sp9/400/400" }
+      ]
+    },
+    {
+      "id": "toys-kids",
+      "name": "Toys, Kids & Activity Items",
+      "hindiName": "बच्चों के खिलौने व उपयोगी सामान",
+      "image": "https://picsum.photos/seed/toys-set/800/600",
+      "items": [
+        { "id": "tk-1", "name": "Educational Toy", "hindiName": "शैक्षणिक खिलौने", "category": "Toys, Kids & Activity Items", "image": "https://picsum.photos/seed/tk1/400/400" },
+        { "id": "tk-2", "name": "Plastic Toy", "hindiName": "प्लास्टिक खिलौने", "category": "Toys, Kids & Activity Items", "image": "https://picsum.photos/seed/tk2/400/400" },
+        { "id": "tk-3", "name": "Indoor Game", "hindiName": "इनडोर गेम्स", "category": "Toys, Kids & Activity Items", "image": "https://picsum.photos/seed/tk3/400/400" },
+        { "id": "tk-4", "name": "Outdoor Play Material", "hindiName": "आउटडोर खेल सामग्री", "category": "Toys, Kids & Activity Items", "image": "https://picsum.photos/seed/tk4/400/400" },
+        { "id": "tk-5", "name": "Kids Activity Kit", "hindiName": "बच्चों की एक्टिविटी किट", "category": "Toys, Kids & Activity Items", "image": "https://picsum.photos/seed/tk5/400/400" }
+      ]
+    },
+    {
+      "id": "photo-frames",
+      "name": "Photo Frames & Mahapurush Photos",
+      "hindiName": "फोटो फ्रेम व महापुरुषों की तस्वीरें",
+      "image": "https://picsum.photos/seed/frames-set/800/600",
+      "items": [
+        { "id": "pf-1", "name": "Photo Frame (Small, Medium, Large)", "hindiName": "फोटो फ्रेम (छोटा, मध्यम, बड़ा)", "category": "Photo Frames & Mahapurush Photos", "image": "https://picsum.photos/seed/pf1/400/400" },
+        { "id": "pf-2", "name": "Wall Photo Frame", "hindiName": "वॉल फोटो फ्रेम", "category": "Photo Frames & Mahapurush Photos", "image": "https://picsum.photos/seed/pf2/400/400" },
+        { "id": "pf-3", "name": "Certificate Frame", "hindiName": "सर्टिफिकेट फ्रेम", "category": "Photo Frames & Mahapurush Photos", "image": "https://picsum.photos/seed/pf3/400/400" },
+        { "id": "pf-4", "name": "Mahatma Gandhi Photo", "hindiName": "महात्मा गांधी फोटो", "category": "Photo Frames & Mahapurush Photos", "image": "https://picsum.photos/seed/pf4/400/400" },
+        { "id": "pf-5", "name": "Dr. Bhimrao Ambedkar Photo", "hindiName": "डॉ. भीमराव अंबेडकर फोटो", "category": "Photo Frames & Mahapurush Photos", "image": "https://picsum.photos/seed/pf5/400/400" },
+        { "id": "pf-6", "name": "Swami Vivekananda Photo", "hindiName": "स्वामी विवेकानंद फोटो", "category": "Photo Frames & Mahapurush Photos", "image": "https://picsum.photos/seed/pf6/400/400" },
+        { "id": "pf-7", "name": "Bhagat Singh Photo", "hindiName": "भगत सिंह फोटो", "category": "Photo Frames & Mahapurush Photos", "image": "https://picsum.photos/seed/pf7/400/400" },
+        { "id": "pf-8", "name": "Dr. A.P.J. Abdul Kalam Photo", "hindiName": "डॉ. ए.पी.जे. अब्दुल कलाम फोटो", "category": "Photo Frames & Mahapurush Photos", "image": "https://picsum.photos/seed/pf8/400/400" },
+        { "id": "pf-9", "name": "Rani Lakshmibai Photo", "hindiName": "रानी लक्ष्मीबाई फोटो", "category": "Photo Frames & Mahapurush Photos", "image": "https://picsum.photos/seed/pf9/400/400" }
+      ]
+    },
+    {
+      "id": "exam-materials",
+      "name": "Examination & Assessment Materials",
+      "hindiName": "परीक्षा सामग्री",
+      "image": "https://picsum.photos/seed/exam-set/800/600",
+      "items": [
+        { "id": "em-1", "name": "Answer Sheet", "hindiName": "उत्तर पुस्तिका", "category": "Examination & Assessment Materials", "image": "https://picsum.photos/seed/em1/400/400" },
+        { "id": "em-2", "name": "Supplement Sheet", "hindiName": "सप्लीमेंट शीट", "category": "Examination & Assessment Materials", "image": "https://picsum.photos/seed/em2/400/400" },
+        { "id": "em-3", "name": "Question Paper File", "hindiName": "प्रश्न पत्र फाइल", "category": "Examination & Assessment Materials", "image": "https://picsum.photos/seed/em3/400/400" },
+        { "id": "em-4", "name": "Exam Register", "hindiName": "परीक्षा रजिस्टर", "category": "Examination & Assessment Materials", "image": "https://picsum.photos/seed/em4/400/400" },
+        { "id": "em-5", "name": "Attendance Sheet", "hindiName": "अटेंडेंस शीट", "category": "Examination & Assessment Materials", "image": "https://picsum.photos/seed/em5/400/400" },
+        { "id": "em-6", "name": "Answer Copy", "hindiName": "उत्तर कॉपी", "category": "Examination & Assessment Materials", "image": "https://picsum.photos/seed/em6/400/400" },
+        { "id": "em-7", "name": "Exam Form", "hindiName": "परीक्षा फॉर्म", "category": "Examination & Assessment Materials", "image": "https://picsum.photos/seed/em7/400/400" },
+        { "id": "em-8", "name": "Assessment Material", "hindiName": "मूल्यांकन सामग्री", "category": "Examination & Assessment Materials", "image": "https://picsum.photos/seed/em8/400/400" }
+      ]
+    },
+    {
+      "id": "flags-national",
+      "name": "Flags & National Items",
+      "hindiName": "तिरंगा / झंडा व देशभक्ति सामग्री",
+      "image": "https://picsum.photos/seed/flag-set/800/600",
+      "items": [
+        { "id": "fn-1", "name": "Tricolor Flag", "hindiName": "तिरंगा झंडा", "category": "Flags & National Items", "image": "https://picsum.photos/seed/fn1/400/400" },
+        { "id": "fn-2", "name": "Flag with Stand", "hindiName": "झंडा स्टैंड सहित", "category": "Flags & National Items", "image": "https://picsum.photos/seed/fn2/400/400" },
+        { "id": "fn-3", "name": "Flag Pole", "hindiName": "झंडा डंडा", "category": "Flags & National Items", "image": "https://picsum.photos/seed/fn3/400/400" },
+        { "id": "fn-4", "name": "National Chart", "hindiName": "राष्ट्रीय चार्ट", "category": "Flags & National Items", "image": "https://picsum.photos/seed/fn4/400/400" },
+        { "id": "fn-5", "name": "Patriotic Poster", "hindiName": "देशभक्ति पोस्टर", "category": "Flags & National Items", "image": "https://picsum.photos/seed/fn5/400/400" },
+        { "id": "fn-6", "name": "School Display Material", "hindiName": "विद्यालय प्रदर्शन सामग्री", "category": "Flags & National Items", "image": "https://picsum.photos/seed/fn6/400/400" }
+      ]
+    },
+    {
+      "id": "private-school-registers",
+      "name": "Private School Registers",
+      "hindiName": "प्राइवेट विद्यालय हेतु रजिस्टर व सहायक सामग्री",
+      "image": "https://picsum.photos/seed/private-reg-set/800/600",
+      "items": [
+        { "id": "psr-1", "name": "Student Profile Register", "hindiName": "छात्र प्रोफाइल रजिस्टर", "category": "Private School Registers", "image": "https://picsum.photos/seed/psr1/400/400" },
+        { "id": "psr-2", "name": "Teacher Register", "hindiName": "शिक्षक रजिस्टर", "category": "Private School Registers", "image": "https://picsum.photos/seed/psr2/400/400" },
+        { "id": "psr-3", "name": "Fee Register", "hindiName": "फीस रजिस्टर", "category": "Private School Registers", "image": "https://picsum.photos/seed/psr3/400/400" },
+        { "id": "psr-4", "name": "Salary Register", "hindiName": "वेतन रजिस्टर", "category": "Private School Registers", "image": "https://picsum.photos/seed/psr4/400/400" },
+        { "id": "psr-5", "name": "Exam Panjika", "hindiName": "परीक्षा पंजिका", "category": "Private School Registers", "image": "https://picsum.photos/seed/psr5/400/400" },
+        { "id": "psr-6", "name": "T.C. Form", "hindiName": "टी.सी. फॉर्म", "category": "Private School Registers", "image": "https://picsum.photos/seed/psr6/400/400" },
+        { "id": "psr-7", "name": "Office Record Material", "hindiName": "कार्यालय रिकॉर्ड सामग्री", "category": "Private School Registers", "image": "https://picsum.photos/seed/psr7/400/400" }
+      ]
+    }
+  ]
+}
